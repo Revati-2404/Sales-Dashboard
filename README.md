@@ -31,3 +31,6 @@ To build an intuitive and insightful dashboard that helps business analysts and 
 •	Understand customer purchasing behaviour
 •	Optimize marketing and inventory strategies
 
+🌟	Screenshots:
+
+
