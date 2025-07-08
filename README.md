@@ -32,5 +32,6 @@ To build an intuitive and insightful dashboard that helps business analysts and 
 •	Optimize marketing and inventory strategies
 
 🌟	Screenshots:
+Dashboard Preview (https://github.com/Revati-2404/Sales-Dashboard/blob/main/mobile%20sales%20snap.PNG)
 
 
