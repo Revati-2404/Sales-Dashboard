@@ -9,9 +9,13 @@ This interactive dashboard provides a comprehensive overview of mobile phone sal
 
 🛠️ Tech Stack:
 •	📊 Power BI – For data visualization and dashboard development
+
 •	📝 Microsoft Excel – For raw data processing and integration
+
 •	🧠 DAX – For calculated measures and custom metrics
+
 •	📂 Power Query (M Language) – For data transformation and cleaning
+
 
 
 🌟 Features / Highlights:
@@ -30,6 +34,7 @@ To build an intuitive and insightful dashboard that helps business analysts and 
 •	Identify top-performing products and cities
 •	Understand customer purchasing behaviour
 •	Optimize marketing and inventory strategies
+
 
 🌟	Screenshots:
 Dashboard Preview (https://github.com/Revati-2404/Sales-Dashboard/blob/main/mobile%20sales%20snap.PNG)
